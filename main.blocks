@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="C{p5+[+tB#zWxBo.+[$c" x="0" y="0"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="GS|zRrRwOCjw-`m(l[fj"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_play_note" id="57|98j;gOn#.~OLCzGC5"><value name="note"><shadow type="device_note" id="^uOc(H.K%cjjzX$TzG5_"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="|St6[onbY1:76`Kv7oiR"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></statement></block><block type="device_gesture_event" id="+J7Fk}VVs:b|YR+u8hKp" x="296" y="-11"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="snYXRZDo-TpCXDy.XST6"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_play_note" id="Hk`_QhjltRB|If71yI7?"><value name="note"><shadow type="device_note" id="#?l@wz3NPdi/EFxZQa6Q"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="mryqA/s7QoZTCOF7Z79u"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></statement></block><block type="device_gesture_event" id="507K`~I5vIlFzs~mOI:c" x="70" y="348"><field name="NAME">Gesture.ScreenUp</field><statement name="HANDLER"><block type="device_show_leds" id="-Z2GFkUQky/T;]`nPVcc"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_play_note" id="Oz/z*kk=r**42@H*H)pL"><value name="note"><shadow type="device_note" id="{Iru_mgx?bqiyBocVWLw"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="2U#O+z4Lc+EWK;lU1?%J"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></statement></block><block type="device_gesture_event" id="yiKlQswP9!u=r$G$`1Q|" x="529" y="474"><field name="NAME">Gesture.ScreenDown</field><statement name="HANDLER"><block type="device_show_leds" id="$9y)hb%MgAd)S$[5mp8K"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_play_note" id="m)N%HE(x:]mfWl6@1Xx7"><value name="note"><shadow type="device_note" id="q_.$Ynk7rv@3CME`qMJ_"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="j%K.)P~^iA?p(`P34fGs"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></statement></block></xml>
